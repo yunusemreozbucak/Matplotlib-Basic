@@ -12,5 +12,5 @@ for i in range(1,len(x)+1):
 plt.figure(figsize=(5,6))
 plt.plot(x,y,marker="o",linestyle=" ")
 plt.plot(x,yy,marker="")
-plt.savefig("Grakik-1")
+plt.savefig("Grafik-1")
 plt.show()
