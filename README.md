@@ -1,5 +1,5 @@
 # Matplotlib-Basic
-Matplotlib kütüphanesi kullanarak kodunu yazmış olduğum bir çalışmadır.
+Matplotlib kütüphanesi kullanarak basic alıştırmalar yaptığım bir repositorydir.
 
 Matplotlib, Python programlama dili ve sayısal matematik uzantısı NumPy için bir çizim kütüphanesidir. Basitçe veri görselleştirmeye yarayan bir kütüphane de diyebilirim. Matplotlib-numpy kütüphaneleri kullanarak çeşitli grafikler ve excel üzerinden verileri çekebilmenize olanak sağlar.
 
